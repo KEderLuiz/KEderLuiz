@@ -1,6 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KEderLuiz/KEderLuiz/main/assets/ChatGPT%20Image%203%20de%20ago.%20de%202026,%2019_28_15.png" width="100%">
+</p>
 #👋 Hello! Welcome to my profile.
 I am Eder Luiz.
-
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (Censupeg)  
 💻 Apaixonado por programação e tecnologia  
 🚀 Sempre em busca de novos desafios e aprendizados  
